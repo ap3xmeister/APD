@@ -45,7 +45,7 @@ int CVICALLBACK OnExit (int panel, int control, int event,
 	switch (event)
 	{
 		case EVENT_COMMIT:
-			if(ConfirmPopup ("Quit", "Do you Really want to quit ?"))
+			if(ConfirmPopup ("Quit", "Do you Really awant to quit ?"))
 			{
 			QuitUserInterface (0);
 			}
