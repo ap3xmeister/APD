@@ -1,1 +1,0 @@
--force-include-file "labb2.c";"c:\Users\Daria\OneDrive\Desktop\apd\lab2\labb2.c" -force-include-file "labb2.h";"c:\Users\Daria\OneDrive\Desktop\apd\lab2\labb2.h" 

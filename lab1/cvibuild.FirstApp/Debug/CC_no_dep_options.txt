@@ -1,1 +1,0 @@
--force-include-file "FirstApp.c";"c:\Users\Daria\OneDrive\Desktop\apd\lab1\FirstApp.c" -force-include-file "FirstApp.h";"c:\Users\Daria\OneDrive\Desktop\apd\lab1\FirstApp.h" 
