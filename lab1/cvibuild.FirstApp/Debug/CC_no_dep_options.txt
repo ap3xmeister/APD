@@ -1,1 +1,1 @@
--force-include-file "FirstApp.c";"c:\Users\andre\Documents\GitHub\APD\lab1\FirstApp.c" -force-include-file "FirstApp.h";"c:\Users\andre\Documents\GitHub\APD\lab1\FirstApp.h" 
+-force-include-file "FirstApp.c";"c:\Users\Daria\OneDrive\Documents\GitHub\APD\lab1\FirstApp.c" -force-include-file "FirstApp.h";"c:\Users\Daria\OneDrive\Documents\GitHub\APD\lab1\FirstApp.h" 
