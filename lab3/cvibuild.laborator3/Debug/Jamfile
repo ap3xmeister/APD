@@ -28,16 +28,16 @@ HDRS = 	"c:\\program files (x86)\\national instruments\\cvi2020\\toolslib\\activ
 	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
 	;
 include Jamfile_instr ;
-LOCATE on "AcquisitionSimulation.c" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa" ;
-LOCATE on "AcquisitionSimulation.h" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa" ;
-LOCATE on "Signals.c" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa" ;
-LOCATE on "Signals.h" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa" ;
-Object "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" : "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa\\AcquisitionSimulation.c" ;
+LOCATE on "AcquisitionSimulation.c" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3" ;
+LOCATE on "AcquisitionSimulation.h" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3" ;
+LOCATE on "Signals.c" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3" ;
+LOCATE on "Signals.h" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3" ;
+Object "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" : "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\AcquisitionSimulation.c" ;
 FILENUM on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" = 1 ;
 DEFPROTS on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj.cvidefprots" ;
 OUTFILE on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj.out" ;
 PrjObjects += "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\AcquisitionSimulation.obj" ;
-Object "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj" : "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\ApdL03-TemaPropusa\\Signals.c" ;
+Object "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj" : "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\Signals.c" ;
 FILENUM on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj" = 2 ;
 DEFPROTS on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj.cvidefprots" ;
 OUTFILE on "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj" = "c:\\Users\\Daria\\OneDrive\\Desktop\\apd\\lab3\\cvibuild.laborator3\\Debug\\Signals.obj.out" ;
