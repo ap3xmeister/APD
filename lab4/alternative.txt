@@ -1,0 +1,10 @@
+Alternative:
+
+Programe comunicatie seriala (alternativa Terminal): 
+    1. PUTTY - https://www.putty.org/
+
+Programe conexiuni porturi virtuale (alternative VSPD): 
+    1. HHD Virtual Serial Port Tools - https://freevirtualserialports.com/ 
+    2. Null-modem emulator (com0com) - https://sourceforge.net/projects/com0com/ (+ http://com0com.sourceforge.net, http://com0com.sourceforge.net/doc/UsingCom0com.pdf)
+
+Verificati porturile din Device Manager (sectiunea Ports sau com0 pt emulatorul de la 2)
